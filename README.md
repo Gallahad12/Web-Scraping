@@ -1,2 +1,2 @@
 # Web-Scraping
-Developed an integrated application that enables banks to manage customer loan collateral comprehensively—from maintenance cost tracking and auction processing to AYDA (assets taken over) administration.
+Built an automated Python web-scraping engine that extracts "storage" product data from the first ten Bhinneka search result pages, applies a complete ETL workflow for data cleansing and transformation, and loads the curated dataset into PostgreSQL for downstream analytics.
